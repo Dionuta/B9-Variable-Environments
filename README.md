@@ -6,10 +6,10 @@
     
  <ul>
 
-  <li>Variable Enviroment </li>
+  <li>Variable Environments </li>
 
  </ul>
  
 <h1>Notes</h1>
 
-Variable Enviroment - where the variables live and how they relate to each other in memory.
+Variable Environments - where the variables live and how they relate to each other in memory.
