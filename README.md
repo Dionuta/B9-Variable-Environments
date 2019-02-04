@@ -1,6 +1,6 @@
 # B9-Variable-Environments
 
-<p></p>
+<p>A deep dive into the strange world of JavaScript.</p>
 
 <h1>What Was Learned</h1>
     
